@@ -16,7 +16,7 @@ namespace Play_Game
     {
         public goLabel()
         {
-            InitializeComponent();//
+            InitializeComponent();
         }
 
         private void startButton_Click(object sender, EventArgs e)
