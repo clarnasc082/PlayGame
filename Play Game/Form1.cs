@@ -30,7 +30,7 @@ namespace Play_Game
             Refresh();
             Thread.Sleep(1000);
 
-            numberLabel.Text = "2";
+            numberLabel.Text = "2"; 
             Refresh();
             Thread.Sleep(1000);
 
